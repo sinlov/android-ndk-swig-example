@@ -1,3 +1,7 @@
+### Swig Build template
+NDKExample/app/src/main/java/com/sureshjoshi/core/
+NDKExample/app/src/main/jni/SeePlusPlus_wrap.cxx
+
 ### Gradle template
 .gradle
 build/
